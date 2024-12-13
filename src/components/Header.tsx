@@ -106,7 +106,7 @@ export default function Header() {
                       <>
                         <Link
                           to="/login"
-                          className="relative flex h-9 w-40 ml-auto items-center justify-center sm:px-6 before:absolute before:inset-0 before:rounded-full before:bg-yellow-400 dark:before:bg-primaryLight before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
+                          className="relative flex h-9 w-32 ml-auto items-center justify-center sm:px-6 before:absolute before:inset-0 before:rounded-full before:bg-yellow-400 dark:before:bg-primaryLight before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
                           <span className="relative text-sm font-semibold text-white dark:text-gray-900">
                             Login
                           </span>
